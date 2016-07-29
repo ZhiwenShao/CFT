@@ -8,6 +8,7 @@ References:
 [2] Burgos-Artizzu X P, Perona P, Dollár P. Robust face landmark estimation under occlusion[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 1513-1520.
 
 Note:
+
 1. Both methods process frame by frame without post processing.
 
 2. We first use our own face detector to detect the faces in the frame and then process face alignment for each face.
