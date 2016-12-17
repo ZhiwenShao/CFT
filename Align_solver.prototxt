@@ -1,0 +1,14 @@
+net: "Align_train_val.prototxt"
+test_iter: 138
+test_interval: 5000
+base_lr: 0.02
+lr_policy: "step"
+gamma: 0.3
+stepsize: 30000
+display: 100
+max_iter: 160000
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "Align"
+momentum: 0.9
+solver_mode: GPU
