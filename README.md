@@ -22,4 +22,4 @@ Note:
 
 Our paper [1] can be download from https://www.researchgate.net/publication/305388996_Learning_Deep_Representation_from_Coarse_to_Fine_for_Face_Alignment.
 
-Should you have any questions, then just contact with us through email, shaozhiwen@sjtu.edu.cn.
+Should you have any questions, don't hesitate to contact with us through email shaozhiwen@sjtu.edu.cn.
